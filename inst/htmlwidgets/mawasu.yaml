@@ -1,0 +1,18 @@
+ dependencies:
+  - name: jquery
+    version: 2.1.3
+    src: htmlwidgets/lib/blast-text
+    script: jquery-2.1.3.min.js
+  - name: velocity
+    version: 2.1.3
+    src: htmlwidgets/lib/blast-text
+    script: jquery.velocity.min.js
+  - name: velocity.ui
+    version: 2.1.3
+    src: htmlwidgets/lib/blast-text
+    script: velocity.ui.js
+  - name: blast-text
+    version: 1.1.1
+    src: htmlwidgets/lib/blast-text
+    script: jquery.blast.min.js
+    stylesheet: rotate.css

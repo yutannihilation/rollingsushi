@@ -1,0 +1,9 @@
+Package: rollingsushi
+Type: Package
+Title: I don't mean maki-zushi
+Version: 0.0.1
+Date: 2015-02-14
+Author: Hiroaki Yutani
+Maintainer: Hiroaki Yutani <yutani.ini@gmail.com>
+Description: Add rotate animation of CSS3 to sushi emoji
+License: MIT

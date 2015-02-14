@@ -1,0 +1,15 @@
+---
+title: "回る🍣"
+author: "Hiroaki Yutani"
+date: "2/14/2015"
+output: html_document
+---
+
+I love 🍣 emoji since it never rolls.
+
+```{r}
+library(rollingsushi)
+mawasu()
+```
+
+Whaaaat!!!? 🍣 is rolling!!!!!!!!
