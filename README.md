@@ -28,3 +28,7 @@ Whaaaat!!!? 🍣 is rolling!!!!!!!!
 ```r
 rmarkdown::render("test.Rmd")
 ```
+
+3) You will see.
+
+http://yutannihilation.github.io/rollingsushi/example.html
