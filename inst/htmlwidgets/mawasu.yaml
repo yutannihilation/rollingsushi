@@ -16,3 +16,7 @@
     src: htmlwidgets/lib/blast-text
     script: jquery.blast.min.js
     stylesheet: rotate.css
+  - name: twemoji
+    version: 1.1.1
+    src: htmlwidgets/lib/twemoji
+    script: twemoji.min.js

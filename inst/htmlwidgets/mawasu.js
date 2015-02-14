@@ -15,6 +15,7 @@ HTMLWidgets.widget({
   renderValue: function(el, x, instance) {
     $(document).ready(function() {
       $("div").blast({ search: "🍣" });
+      twemoji.parse(document.body);
     });
   },
 
