@@ -15,10 +15,10 @@ devtools::install_github("yutannihilation/rollingsushi")
 ```md
 I love 🍣 emoji since it never rolls.
 
-```{r}
+\```{r}
 library(rollingsushi)
 mawasu()
-```
+\```
 
 Whaaaat!!!? 🍣 is rolling!!!!!!!!
 ```
