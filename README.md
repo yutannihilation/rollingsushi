@@ -10,7 +10,7 @@ devtools::install_github("yutannihilation/rollingsushi")
 
 # Usage
 
-1. Create Rmd file like this:
+1) Create Rmd file like this:
 
 ```md
 I love 🍣 emoji since it never rolls.
@@ -23,8 +23,8 @@ mawasu()
 Whaaaat!!!? 🍣 is rolling!!!!!!!!
 ```
 
-2. knit it
+2) Knit it
 
 ```r
-knitr::render("example.Rmd")
+rmarkdown::render("test.Rmd")
 ```
